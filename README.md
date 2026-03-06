@@ -163,17 +163,6 @@ Run tests with:
 ./gradlew test              # Unit tests
 ./gradlew connectedAndroidTest  # UI tests (requires device/emulator)
 ```
-
-## Group Members & Contributions
-
-| Member | Key Responsibilities |
-|--------|----------------------|
-| [Member 1] | [Features/Components developed] |
-| [Member 2] | [Features/Components developed] |
-| [Member 3] | [Features/Components developed] |
-
-**Debugging & Testing**: See the detailed report for individual contributions to debugging and testing.
-
 ## Documentation
 
 - **User Manual**: Comprehensive guide with screenshots included in the report (TASKS section)
@@ -190,10 +179,6 @@ Run tests with:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for bug reports and feature requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
