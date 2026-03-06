@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SmartFit</string>
+    <!-- Accessibility/content descriptions -->
+    <string name="cd_profile_picture">Profile picture</string>
+    <string name="cd_add_activity">Add activity</string>
+    <string name="cd_back">Back</string>
+    <!-- Add the missing string resources for the AddFoodScreen -->
+    <string name="food_name_label">Food Name</string>
+    <string name="calories_label">Calories</string>
+    <string name="meal_type_label">Meal Type</string>
+    <string name="food_name_placeholder">e.g., Apple</string>
+    <string name="calories_placeholder">e.g., 95</string>
+    <string name="meal_type_placeholder">Select a meal</string>
+    <string name="add_food_log_title">Add Food Log</string>
+    <string name="cd_go_back">Go back</string>
+    <string name="save_log_button">Save Log</string>
+
+</resources>
